@@ -1,9 +1,9 @@
-# JoyMouse
+# Joyclick
 
-JoyMouse is a python script that makes your controller able to control your mouse and keyboard functions.
+Joyclick is a python script that makes your controller able to control your mouse and keyboard functions.
 
 # Dependencies
-JoyMouse currently needs the following:
+Joyclick currently needs the following:
 <ul>
   <li>Python3</li>
   <li>PyAutoGui</li>
