@@ -14,4 +14,5 @@ JoyMouse currently needs the following:
 <ul>
   <li>Macro support</li>
   <li>Keyboard support in more platforms</li>
+  <li>GUI</li>
 </ul>
