@@ -15,4 +15,6 @@ Joyclick currently needs the following:
   <li>Macro support</li>
   <li>Keyboard support in more platforms</li>
   <li>GUI</li>
+  <li>Gesture support</li>
+  
 </ul>
